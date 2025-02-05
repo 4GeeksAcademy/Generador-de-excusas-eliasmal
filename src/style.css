@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: rgb(96, 221, 109);
+    
+    
+}
+h2{
+    color: white;
+}
+img{
+    width: 500PX;
+    height: 300px;
+
 }
